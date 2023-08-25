@@ -1,5 +1,4 @@
-[10:48 AM, 8/24/2023] GERSHON PAUL: app.module.ts
-[10:48 AM, 8/24/2023] GERSHON PAUL: import { Pipe, PipeTransform } from '@angular/core';
+import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
   name: 'convert'
